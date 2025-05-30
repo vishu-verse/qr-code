@@ -1,7 +1,4 @@
 # 🚀 QR Code Component – Frontend Mentor Challenge
-
-![Design preview for the QR code component coding challenge](./preview.jpg)
-
 ## 👋 Welcome!
 
 This is my solution to the **QR Code Component** challenge on [Frontend Mentor](https://www.frontendmentor.io/). It's a beginner-friendly project that helped me practice writing clean HTML and CSS while focusing on layout, spacing, and responsive design.
