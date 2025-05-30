@@ -21,8 +21,7 @@ The goal of the project was to build a visually accurate and responsive QR code 
 
 - How to center elements using Flexbox
 - Proper use of padding and margin for visual spacing
-- Creating card components with shadows and rounded corners
-- Setting font sizes in `rem` for better scalability
+- Creating card components with shadows and rounded corner
 - Writing cleaner, more structured CSS
 
 ---
@@ -36,7 +35,7 @@ The goal of the project was to build a visually accurate and responsive QR code 
 
 ## 🌍 Live Site URL
 
-> 🔗 [Click here to view my live site](https://yourusername.github.io/qr-code-component/)  
+> 🔗 [Click here to view my live site](https://vishu-verse.github.io/qr-code/)
 > (Replace this with your actual GitHub Pages or Netlify/Vercel link)
 
 ---
