@@ -26,12 +26,7 @@ The goal of the project was to build a visually accurate and responsive QR code 
 
 ---
 
-## 📸 Screenshot
 
-> Add your screenshot here after hosting  
-> ![Screenshot](./screenshot.png)
-
----
 
 ## 🌍 Live Site URL
 
