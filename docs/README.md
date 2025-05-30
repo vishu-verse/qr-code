@@ -36,7 +36,7 @@ The goal of the project was to build a visually accurate and responsive QR code 
 ## 🌍 Live Site URL
 
 > 🔗 [Click here to view my live site](https://vishu-verse.github.io/qr-code/)
-> (Replace this with your actual GitHub Pages or Netlify/Vercel link)
+
 
 ---
 
